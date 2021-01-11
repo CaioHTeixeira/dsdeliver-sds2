@@ -1,0 +1,1 @@
+Utilizar o figma para fazer os desenhos do layout e saber as medidas dos pixels e códigos já prontos pro css.
